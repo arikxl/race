@@ -57,6 +57,7 @@ running = True
 clock = pygame.time.Clock()
 
 game_over = False
+name='arik'
 
 while running:
     for event in pygame.event.get():
